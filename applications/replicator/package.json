@@ -9,7 +9,7 @@
     "parity-poe": "0.3.0",
     "request": "2.88.0",
     "soupbintcp": "1.0.1",
-    "ws": "6.2.1"
+    "ws": "6.2.2"
   },
   "devDependencies": {
     "mocha": "^6"
