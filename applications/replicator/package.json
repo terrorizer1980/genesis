@@ -8,7 +8,7 @@
     "parity-pmd": "0.4.0",
     "parity-poe": "0.3.0",
     "request": "2.88.0",
-    "soupbintcp": "1.0.1",
+    "soupbintcp": "1.0.2",
     "ws": "6.2.1"
   },
   "devDependencies": {
